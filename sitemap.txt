@@ -1,0 +1,29 @@
+╫╫ root:
+    ┣╍╍ ./assets/
+    ┃       ┣╍╍ ./stylesheet/ 
+    ┃       ┃          ┗╍╍ template.css         // style template
+    ┃       ┃  
+    ┃       ┃        
+    ┃       ┃   
+    ┃       ┣╍╍ ./javascript/ 
+    ┃       ┃          ┗╍╍ template.js          // scripts template
+    ┃       ┃  
+    ┃       ┃        
+    ┃       ┃   
+    ┃       ┣╍╍ ./fonts/
+    ┃       ┃          
+    ┃       ┃        
+    ┃       ┃   
+    ┃       ┗╍╍ ./img/
+    ┃
+    ┣╍╍ index.html 
+    ┃                 
+    ┃
+    ┣╍╍ README 
+    ┃                 
+    ┃  
+    ┣╍╍ LICENCE 
+    ┃                 
+    ┃                     
+    ┃          
+    ┗╍╍ SITEMAP
